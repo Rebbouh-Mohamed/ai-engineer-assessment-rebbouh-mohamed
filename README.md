@@ -14,8 +14,8 @@ A production-grade FastAPI service providing a single endpoint `POST /ask` that 
 ### 2. Installation
 ```bash
 # Clone the repository
-git clone <repo-url>
-cd <repo-folder>
+git clone https://github.com/Rebbouh-Mohamed/ai-engineer-assessment-rebbouh-mohamed.git
+cd ai-engineer-assessment-rebbouh-mohamed
 
 # Create virtual environment
 python3 -m venv .venv
